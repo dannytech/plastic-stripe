@@ -1,0 +1,25 @@
+{
+  "name": "plastic-stripe",
+  "version": "0.0.0",
+  "description": "Stripe payment provider for PlasticJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nsp check && retire"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannytech/plasticjs-stripe.git"
+  },
+  "keywords": [
+    "plasticjs",
+    "plastic",
+    "payment",
+    "stripe"
+  ],
+  "author": "dannytech <dhellstern@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannytech/plasticjs-stripe/issues"
+  },
+  "homepage": "https://github.com/dannytech/plasticjs-stripe#readme"
+}
