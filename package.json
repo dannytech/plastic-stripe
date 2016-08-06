@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dannytech/plasticjs-stripe/issues"
   },
-  "homepage": "https://github.com/dannytech/plasticjs-stripe#readme"
+  "homepage": "https://github.com/dannytech/plasticjs-stripe#readme",
+  "dependencies": {
+    "stripe": "^4.9.0"
+  }
 }
